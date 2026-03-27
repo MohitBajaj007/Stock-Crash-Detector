@@ -135,11 +135,6 @@ HINDUNILVR.NS: Consistently lowest crash probabilities, FMCG defensive nature va
 ITC.NS: Risk elevated during regulatory changes to tobacco policy
 ICICIBANK.NS: Highest single-day flag at 96.8 percent across entire test period
 
-## Requirements
-
-pip install xgboost hmmlearn yfinance optuna scikit-learn pandas numpy
-
-Note: LightGBM is incompatible with Python 3.13 on macOS. XGBoost is used as a drop-in replacement with identical API and performance.
 
 ## Known Limitations
 
